@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserVerification</title>
+</head>
+<body>
+    <div>
+        <h1>@ViewBag.Message</h1>
+        <span>Please</span> <a href="@Url.Action("Index","Home")" onclick="OpenLoginModel()"><b>Login</b></a> <span>to access Your account</span>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+
+    function OpenLoginModel(){
+
+        $('#loginModal').modal('show');
+    }
+</script>

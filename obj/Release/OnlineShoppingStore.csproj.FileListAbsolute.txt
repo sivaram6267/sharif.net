@@ -1,0 +1,195 @@
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\csc.exe
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\vbc.exe
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Owin.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.Mvc.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PayPal.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Helpers.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Mvc.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Optimization.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Razor.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\WebGrease.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.Mvc.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\PayPal.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Helpers.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Mvc.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Optimization.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Razor.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.AssemblyReference.cache
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.CoreCompileInputs.cache
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.CopyComplete
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\obj\Release\OnlineShoppingStore.dll
+C:\Hari\Ecommerce_Part18\OnlineShoppingStore\obj\Release\OnlineShoppingStore.pdb
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\csc.exe
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\vbc.exe
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\EntityFramework.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\jose-jwt.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Logging.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Primitives.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.IdentityModel.Logging.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Nexmo.Api.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Owin.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PagedList.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PagedList.Mvc.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PayPal.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Collections.Immutable.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Helpers.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Mvc.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Optimization.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Razor.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Twilio.AspNet.Common.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Twilio.AspNet.Mvc.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Twilio.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\WebGrease.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Logging.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Extensions.Primitives.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Nexmo.Api.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PagedList.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PagedList.Mvc.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\PayPal.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Collections.Immutable.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Helpers.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Mvc.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Optimization.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.Razor.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Twilio.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\EntityFramework.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Hari\Online SuperMarket\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.AssemblyReference.cache
+C:\Hari\Online SuperMarket\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.CoreCompileInputs.cache
+C:\Hari\Online SuperMarket\OnlineShoppingStore\obj\Release\OnlineShoppingStore.csproj.CopyComplete
+C:\Hari\Online SuperMarket\OnlineShoppingStore\obj\Release\OnlineShoppingStore.dll
+C:\Hari\Online SuperMarket\OnlineShoppingStore\obj\Release\OnlineShoppingStore.pdb
